@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "ticker": "UNKNOWN",
+    "cik": null,
+    "accession": "000032019323000106",
+    "filing_date": null
+  },
+  "report": {
+    "Strength": {
+      "count": 24,
+      "top_bullets": [
+        "Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.",
+        "See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.",
+        "If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act."
+      ],
+      "key_themes": [
+        "company",
+        "growth",
+        "accelerated"
+      ],
+      "summary": "24 strength indicators found"
+    },
+    "Weakness": {
+      "count": 153,
+      "top_bullets": [
+        "Quantitative and Qualitative Disclosures About Market Risk",
+        "This Annual Report on Form 10-K (“Form 10-K”) contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties.",
+        "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading “Risk Factors.” The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law."
+      ],
+      "key_themes": [
+        "company",
+        "product",
+        "form"
+      ],
+      "summary": "153 weakness indicators found"
+    },
+    "Opportunity": {
+      "count": 11,
+      "top_bullets": [
+        "For example, statements in this Form 10-K regarding the potential future impact of macroeconomic conditions on the Company’s business and results of operations are forward-looking statements.",
+        "The Company is focused on expanding its market opportunities related to smartphones, personal computers, tablets, wearables and accessories, and services.",
+        "The Company continues to develop new technologies to enhance existing products and services, and to expand the range of its offerings through research and development (“R&D”), licensing of intellectual property and acquisition of third-party businesses and technology."
+      ],
+      "key_themes": [
+        "company",
+        "derivative",
+        "potential"
+      ],
+      "summary": "11 opportunity indicators found"
+    },
+    "Threat": {
+      "count": 45,
+      "top_bullets": [
+        "Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).",
+        "The markets for the Company’s products and services are highly competitive, and are characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving industry standards, continual improvement in product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses.",
+        "The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software, and service offerings with large customer bases."
+      ],
+      "key_themes": [
+        "company",
+        "competition",
+        "product"
+      ],
+      "summary": "45 threat indicators found"
+    }
+  }
+}
